@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70782422707",
+    "project_id": "night-life-a0e72",
+    "storage_bucket": "night-life-a0e72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70782422707:android:c572497e38a39e8401aac6",
+        "android_client_info": {
+          "package_name": "com.example.night_life"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB5XEi7ljJ-fmGSA86UPCVxRxqZJb9vKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

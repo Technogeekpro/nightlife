@@ -1,0 +1,39 @@
+name: night_life
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.0.0
+  google_fonts: ^6.2.1
+  flutter_screenutil: ^5.0.0
+  cupertino_icons: ^1.0.8
+  font_awesome_flutter: ^10.8.0
+  iconsax: ^0.0.8
+  carousel_slider: ^5.0.0
+  drop_shadow: ^0.1.0
+  firebase_core: ^3.8.0
+  firebase_auth: ^5.3.3
+  cloud_firestore: ^5.5.0
+  image_picker: ^0.8.4+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - assets/images/
+
